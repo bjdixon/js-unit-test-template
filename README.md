@@ -14,7 +14,7 @@ Includes:
 
 Project layout would look something like this:
 ----------------------------------------------
-
+```
 application
     |
     -- css
@@ -48,3 +48,4 @@ application
         -- tests.html
         |
         -- README.md (This file)
+```
